@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rena</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h1 align="center">Hi 👋, I'm Rena from Malaysia.</h1>
+<h3 align="center">I am a third-year Computer Science student passionate about continuous learning and applying my problem-solving skills to real-world challenges. While I enjoy exploring diverse areas, I am focused on leveraging my technical knowledge in the IT field to contribute meaningfully to innovative projects. My curiosity and dedication to growth make me adaptable and eager to take on new challenges in technology</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/yin-xuan-goh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yin-xuan-goh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
