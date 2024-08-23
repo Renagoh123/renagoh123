@@ -1,21 +1,16 @@
-
-![download (1)](https://github.com/user-attachments/assets/77f49696-bbdd-43f6-bbea-c319d96a00f3)
-
-![Image_20240823171857](https://github.com/user-attachments/assets/83a8e768-5c4f-4472-be3f-df44f7d9ef1c)
-
-<img src="https://github.com/user-attachments/assets/77f49696-bbdd-43f6-bbea-c319d96a00f3" style="height:auto; max-height:100px;">
-
+<img src="https://github.com/user-attachments/assets/77f49696-bbdd-43f6-bbea-c319d96a00f3" alt="Description of image" height="250" width="100%"/>
 
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1>Hi👋🏻 I'm Rena</h1>
+      <h1>Hi👋🏻, I'm Rena</h1>
     </summary>
   </ul>
 </div>
 
+<hr>
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0072E5&weight=500&size=25&duration=3500&pause=1200&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%92%BB+Computer+Science+Student;%F0%9F%92%AB+Machine+Learning+%26+AI+;%F0%9F%87%B2%F0%9F%87%BE+Malaysian" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0072E5&weight=500&size=20&duration=3500&pause=1200&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%92%BB+Computer+Science+Student;%F0%9F%92%AB+Machine+Learning+%26+AI+;%F0%9F%87%B2%F0%9F%87%BE+Malaysian" alt="Headline" />
 </div>
 
 <div align=center>
