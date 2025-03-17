@@ -27,7 +27,7 @@
             <li>📚 I’m currently learning <code>Computer Science</code> with specialization in <code>Machine Learning and AI</code>.</li>
             <li>🤓 Committed to <code>continuous learning</code> and applying <code>problem-solving</code> skills to real-world challenges.</li>
             <li>🤔 I’m currently open for a full-time <code>job position</code> where I can apply my skills and continue professional growth, this is <a href="http://lnkiy.in/Ahmed_Hossam_Resume">MY RESUME</a>.</li>
-            <li>📝[MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume). </li>
+            <li>📝[MY RESUME](http://lnkiy.in/). </li>
 	</ul>
     </p>
 </div>
