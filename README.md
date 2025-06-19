@@ -27,6 +27,7 @@
             <li>📚 Learning <code>Computer Science</code> with specialization in <code>Machine Learning and AI</code>.</li>
             <li>🤓 Committed to <code>continuous learning</code> and applying <code>problem-solving</code> skills to real-world challenges.</li>
             <li>🤔 Open for a full-time <code>job position</code> where I can apply my skills and continue professional growth.</li>
+	    <li>📫 Contact: <code>08.juicer_ethic@icloud.com</code>
 	</ul>
     </p>
 </div>
