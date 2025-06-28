@@ -23,7 +23,7 @@
     <h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About me</h2>
     <p>
         <ul>
-            <li>🎓 Computer Science graduate from <a href="https://www.sim.edu.sg/degrees-diplomas/sim-global-education/university-partners-sim-ge/university-of-london">UOL</a>, studying at <a href="https://www.sim.edu.sg/about-sim/overview">SIM Global Education</a> in Singapore.</li> 
+            <li>🎓 Computer Science graduate from <a href="https://www.sim.edu.sg/degrees-diplomas/sim-global-education/university-partners-sim-ge/university-of-london">SIM-UOL</a></li> 
             <li>📚 Learning <code>Computer Science</code> with specialization in <code>Machine Learning and AI</code>.</li>
             <li>🤓 Committed to <code>continuous learning</code> and applying <code>problem-solving</code> skills to real-world challenges.</li>
             <li>🤔 Open for a full-time <code>job position</code> where I can apply my skills and continue professional growth.</li>
