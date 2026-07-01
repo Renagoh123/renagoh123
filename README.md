@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/77f49696-bbdd-43f6-bbea-c319d96a00f3" alt="Description of image" height="250" width="100%"/>
+<img width="1983" height="793" alt="ponyo on keyboard" src="https://github.com/user-attachments/assets/23f14724-69c0-4000-97f3-92c65b5b4107" />
 
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
@@ -23,11 +23,11 @@
     <h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About me</h2>
     <p>
         <ul>
-            <li>🎓 Computer Science graduate from <a href="https://www.sim.edu.sg/degrees-diplomas/sim-global-education/university-partners-sim-ge/university-of-london">SIM-UOL</a></li> 
-            <li>📚 Learning <code>Computer Science</code> with specialization in <code>Machine Learning and AI</code>.</li>
-            <li>🤓 Committed to <code>continuous learning</code> and applying <code>problem-solving</code> skills to real-world challenges.</li>
-            <li>🤔 Open for a full-time <code>job position</code> where I can apply my skills and continue professional growth.</li>
-	    <li>📫 Contact: <code>08.juicer_ethic@icloud.com</code>
+            <li>🎓 BSc Computer Science graduate (Artificial Intelligence & Machine Learning) from <a href="https://www.sim.edu.sg/degrees-diplomas/sim-global-education/university-partners-sim-ge/university-of-london">SIM–University of London</a></li> 
+			<li>💼 Early-career technology professional with experience in software development, enterprise systems, and stakeholder collaboration. </li>
+            <li>🔍 Interested in Business Analysis, System Analysis, and desgining technology solutions that bridge business needs and technical implementation.</li>
+            <li>🤖 Exploring AI-assisted development and modern software engineering practices to improve productivity and problem solving. </li>
+            <li>📚 Always learning, improving, and building practical solutions.</li>
 	</ul>
     </p>
 </div>
